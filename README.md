@@ -17,7 +17,7 @@ cd x7lxrdbot
 
 unzip x7lxrd.zip
 
-cd kd1s 
+cd x7lxrdbot 
 
 php login.php
 
