@@ -13,7 +13,7 @@ pkg install mc
 
 git clone https://github.com/x7lxrd/x7lxrdbot
 
-cd kd1s
+cd x7lxrdbot
 
 unzip x7lxrd.zip
 
