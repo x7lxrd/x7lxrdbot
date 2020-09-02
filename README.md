@@ -11,11 +11,11 @@ pkg install unzip
 
 pkg install mc
 
-git clone https://github.com/xznsx/kd1s
+git clone https://github.com/x7lxrd/x7lxrdbot
 
 cd kd1s
 
-unzip kd1s.zip
+unzip x7lxrd.zip
 
 cd kd1s 
 
